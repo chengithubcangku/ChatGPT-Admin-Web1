@@ -1,0 +1,13 @@
+# IDE
+.vscode/
+.idea/
+
+**/.next/
+**/.vscode/
+**/.idea/
+**/.next/
+**/dist/
+# Turbopack
+.turbo
+
+**/node_modules/
